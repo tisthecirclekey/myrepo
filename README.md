@@ -1,5 +1,2 @@
-# myrepo
-test repo
-A line I wrote on my local computer
-A line I wrote on my local computer
-A line I wrote on my local computer
+# my_r_repo
+testing RStudio setup
